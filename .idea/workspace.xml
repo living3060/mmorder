@@ -2,109 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe818bb5-967a-424b-bad6-807ce1a25b3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MMOrder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/build/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/src/axios/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/src/axios/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/src/components/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss/static/css/login.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduler.manager.server.home_IS_UNDEFINED/logs/MMorder.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduler.manager.server.home_IS_UNDEFINED/logs/app.name_IS_UNDEFINED.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/bean/Attach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/bean/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/bean/OrderFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/bean/Qrcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/config/BossSessionConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/config/MyPasswordEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/config/ViewResolverConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/controller/ApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/controller/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/controller/BossController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/controller/PublicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/coomm/AppException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/coomm/Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/coomm/JsonBodyAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/intercept/ExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/intercept/ResponseAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/intercept/SessionIncetper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/mapper/AttachMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/mapper/OrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/mapper/QrCodeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/service/PublicService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/service/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/util/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/req/AppOrderReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/req/LoginReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/req/OrderNotifyReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/req/QrcodeSaveReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/resp/ApplyOrderResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/resp/BaseResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/resp/LoginResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/resp/NotifyOrderResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/resp/OrderListResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/resp/QrcodeSaveResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/mm/com/vo/resp/UploadResp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/qrcode_show.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/ss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/to_apply.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/node_modules/.package_versions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/html/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/image/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -284,7 +183,7 @@
       <workItem from="1567892029897" duration="1278000" />
       <workItem from="1567943478597" duration="58005000" />
       <workItem from="1568025458466" duration="24182000" />
-      <workItem from="1568210851353" duration="2815000" />
+      <workItem from="1568210851353" duration="3396000" />
     </task>
     <servers />
   </component>
