@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe818bb5-967a-424b-bad6-807ce1a25b3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-stg.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -66,21 +66,21 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\jsp" />
-      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static\js" />
-      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static\image" />
-      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static\html" />
-      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static\css" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static" />
+      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="order.mm.com.vo.resp" />
       <recent name="order.mm.com.vo" />
       <recent name="order.mm.com.controller" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static" />
-      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\resources" />
+      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\jsp" />
+      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static\js" />
+      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static\image" />
+      <recent name="C:\Users\itit\IdeaProjects\MMOrder\src\main\webapp\static\html" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,8 +183,16 @@
       <workItem from="1567892029897" duration="1278000" />
       <workItem from="1567943478597" duration="58005000" />
       <workItem from="1568025458466" duration="24182000" />
-      <workItem from="1568210851353" duration="5152000" />
+      <workItem from="1568210851353" duration="5644000" />
     </task>
+    <task id="LOCAL-00001" summary="ss">
+      <created>1568272592420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568272592421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +208,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ss" />
+    <option name="LAST_COMMIT_MESSAGE" value="ss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
